@@ -160,4 +160,4 @@ See `train.ipynb` for:
 - [@Ichhabal Singh](https://www.github.com/CodeRulerNo1) (Team Lead)
   - Worked on Model training, integration of model with dashboard and improved dashboard visualizations and functions. 
 - [@Anuj Sangwan](https://github.com/aj711)
-  - Worked on the design and implementation of dashboard.  
+  - Worked on design and the implementation of dashboard.  
