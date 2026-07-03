@@ -55,7 +55,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# Streamlit toggle for dark/light mode
+# Streamlit toggle for dark and light mode
 dark_mode = st.sidebar.checkbox("", value=False, key="dark_mode_toggle")
 mode_text = "Dark Mode" if dark_mode else "Light Mode"
 st.sidebar.markdown(f"<span style='font-weight:bold;font-size:1.1em'>{mode_text}</span>", unsafe_allow_html=True)
